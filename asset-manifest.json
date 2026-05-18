@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/todo-life/static/css/main.e6c13ad2.css",
-    "main.js": "/todo-life/static/js/main.76a4e3f7.js",
+    "main.js": "/todo-life/static/js/main.cc4f08f7.js",
     "static/js/453.cff02f8e.chunk.js": "/todo-life/static/js/453.cff02f8e.chunk.js",
     "index.html": "/todo-life/index.html",
     "main.e6c13ad2.css.map": "/todo-life/static/css/main.e6c13ad2.css.map",
-    "main.76a4e3f7.js.map": "/todo-life/static/js/main.76a4e3f7.js.map",
+    "main.cc4f08f7.js.map": "/todo-life/static/js/main.cc4f08f7.js.map",
     "453.cff02f8e.chunk.js.map": "/todo-life/static/js/453.cff02f8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.76a4e3f7.js"
+    "static/js/main.cc4f08f7.js"
   ]
 }
